@@ -20,3 +20,20 @@ sec.innerHTML=clock.getSeconds();
 },1000)
 
 
+// animation -------------------------------------------
+
+gsap. from(".box",{
+
+    x:500,
+    duration:2,
+    delay:1,
+    rotate:360
+
+
+
+
+
+
+}) 
+
+
